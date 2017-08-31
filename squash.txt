@@ -3,4 +3,5 @@ I am in the squash branch
 This commit from the bash
 =======
 This commit from the bash
+bad record
 
