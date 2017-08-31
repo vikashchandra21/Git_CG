@@ -1,2 +1,3 @@
 I am in the squash branch
 This commit from the bash
+I am from bash
